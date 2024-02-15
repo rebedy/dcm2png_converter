@@ -1,0 +1,6 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: osx-arm64
+pandas=2.1.4=py311h7aedaa7_0
+pillow=10.2.0=pypi_0
+simpleitk=2.3.1=py311hbaf5611_2
