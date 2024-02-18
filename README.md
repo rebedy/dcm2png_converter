@@ -30,4 +30,3 @@ To configure the script, open the `dcm2png.py` file and modify the following var
 
 - `dcm_path`: The directory containing the dicom files.
 - `output_path`: The directory to save the png files. If the directory does not exist, it will be created.
-- `matching.xlsx`:The dataframe containing the dicom file names and the corresponding frames.
